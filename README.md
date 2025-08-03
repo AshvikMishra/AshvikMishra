@@ -1,4 +1,4 @@
-### Hello there
+### Hello there 👋
 
 I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and Machine Learning.  
 I enjoy building tools, automating workflows, and applications.
