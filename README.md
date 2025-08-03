@@ -7,25 +7,13 @@ I enjoy building tools, automating workflows, and designing clean, retro-style U
 
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-3E2723?style=for-the-badge&logo=c&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/C++-3E2723?style=for-the-badge&logo=c%2B%2B&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/Python-3E2723?style=for-the-badge&logo=python&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/JavaScript-3E2723?style=for-the-badge&logo=javascript&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/Dart-3E2723?style=for-the-badge&logo=dart&logoColor=FFF8DC" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Flutter-3E2723?style=for-the-badge&logo=flutter&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/Firebase-3E2723?style=for-the-badge&logo=firebase&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/sqflite-3E2723?style=for-the-badge&logo=sqlite&logoColor=FFF8DC" />
-  <br><br>
-  <img src="https://img.shields.io/badge/FastAPI-3E2723?style=for-the-badge&logo=fastapi&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/Redis-3E2723?style=for-the-badge&logo=redis&logoColor=FFF8DC" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Linux-3E2723?style=for-the-badge&logo=linux&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/Git-3E2723?style=for-the-badge&logo=git&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/PyAutoGUI-3E2723?style=for-the-badge&logo=python&logoColor=FFF8DC" />
-  <img src="https://img.shields.io/badge/Playwright-3E2723?style=for-the-badge&logo=microsoftedge&logoColor=FFF8DC" />
-</p>
+<pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
+Languages   : C, C++, Python, JavaScript, Dart
+Mobile      : Flutter (Firebase, Riverpod, BLoC, sqflite)
+Backend     : FastAPI, Redis, PickleDB
+Automation  : PyAutoGUI, Playwright
+Tools       : Git, Linux CLI, JavaScript scraping
+</pre>
 
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">🚀 Projects</h2>
 
