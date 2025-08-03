@@ -1,8 +1,8 @@
-<h1 align="center" style="font-family:'Courier New', monospace; color:#3E2723;">👋 Hi, I'm Ashvik Mishra</h1>
+<h1 align="center" style="font-family:'Courier New', monospace; color:#3E2723;">👋 Hi! I'm Ashvik</h1>
 
 <p align="center" style="font-family:'Courier New', monospace; color:#7B3F00;">
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.  
-I enjoy building tools, automating workflows, and designing clean, retro-style UIs.
+Hi! I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and Machine Learning.  
+I enjoy building tools, automating workflows, and applications.
 </p>
 
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">🛠️ Tech Stack</h2>
