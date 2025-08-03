@@ -1,6 +1,4 @@
-<h1 align="center" style="font-family:'Courier New', monospace; color:#3E2723;">👋 Hi! I'm Ashvik</h1>
-
-<p align="center" style="font-family:'Courier New', monospace; color:#7B3F00;">
+<p style="font-family:'Courier New', monospace; color:#7B3F00;">
 Hi! I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and Machine Learning.  
 I enjoy building tools, automating workflows, and applications.
 </p>
