@@ -4,7 +4,7 @@ I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and
 I enjoy building tools, automating workflows, and applications.
 </p>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">🛠️ Tech Stack</h2>
+<h2 style="font-family:'Courier New', monospace; color:#3E2723;">🛠Tech Stack</h2>
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
 - Languages: C, C++, Python, JavaScript, Dart
@@ -15,7 +15,7 @@ I enjoy building tools, automating workflows, and applications.
 - Tools: Git, GitHub, VSCode
 </pre>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">🚀 Projects</h2>
+<h2 style="font-family:'Courier New', monospace; color:#3E2723;">Projects</h2>
 
 <ul style="font-family:'Courier New', monospace; color:#3E2723;">
   <li>🎵 <strong>Amazon to Spotify Playlist Converter</strong><br>
@@ -28,7 +28,7 @@ I enjoy building tools, automating workflows, and applications.
   Custom-built dark dashboard with tab navigation and chat interface with media/file sections.</li>
 </ul>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">🌱 Currently Exploring</h2>
+<h2 style="font-family:'Courier New', monospace; color:#3E2723;">Currently Exploring</h2>
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
 → Full-stack development with Flutter
