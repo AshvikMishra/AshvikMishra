@@ -7,7 +7,7 @@ I enjoy building tools, automating workflows, and applications.
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
 - Languages: C, C++, Python, JavaScript, Dart
-- Mobile Development:** Flutter (with Firebase, Riverpod, BLoC, sqflite)  
+- Mobile Development: Flutter (with Firebase, Provider)  
 - Backend: PostgreSQL  
 - Automation: PyAutoGUI, Playwright  
 - Markup & Styling: Markdown, HTML/CSS  
@@ -30,16 +30,16 @@ I enjoy building tools, automating workflows, and applications.
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">🌱 Currently Exploring</h2>
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
-→ Full-stack development with FastAPI + Flutter
+→ Full-stack development with Flutter
 → AI-assisted browser automation
-→ Pixel/retro design systems
 → ML fundamentals + minimal AI tooling
 </pre>
 
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">📊 GitHub Stats</h2>
 
-<p align="center">
+<h2 style="font-family:'Courier New', monospace; color:#3E2723;">📊 GitHub Stats</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=AshvikMishra&show_icons=true&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshvikMishra&layout=compact&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="Top Languages" />
-</p>
+</div>
