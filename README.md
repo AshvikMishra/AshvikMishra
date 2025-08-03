@@ -8,11 +8,12 @@ I enjoy building tools, automating workflows, and designing clean, retro-style U
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">🛠️ Tech Stack</h2>
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
-Languages   : C, C++, Python, JavaScript, Dart
-Mobile      : Flutter (Firebase, Riverpod, BLoC, sqflite)
-Backend     : FastAPI, Redis, PickleDB
-Automation  : PyAutoGUI, Playwright
-Tools       : Git, Linux CLI, JavaScript scraping
+- Languages: C, C++, Python, JavaScript, Dart
+- Mobile Development:** Flutter (with Firebase, Riverpod, BLoC, sqflite)  
+- Backend: PostgreSQL  
+- Automation: PyAutoGUI, Playwright  
+- Markup & Styling: Markdown, HTML/CSS  
+- Tools: Git, GitHub, VSCode
 </pre>
 
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">🚀 Projects</h2>
@@ -45,10 +46,4 @@ Tools       : Git, Linux CLI, JavaScript scraping
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshvikMishra&layout=compact&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="Top Languages" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=AshvikMishra&label=Profile+Views&color=7B3F00&style=flat-square" alt="Profile Views" />
-</p>
-
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">🕹️ Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/AshvikMishra/AshvikMishra/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
