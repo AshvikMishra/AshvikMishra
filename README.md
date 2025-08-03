@@ -1,5 +1,5 @@
+### Hello there 👋
 <p style="font-family:'Courier New', monospace; color:#7B3F00;">
-Hi! 👋
 I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and Machine Learning.  
 I enjoy building tools, automating workflows, and applications.
 </p>
