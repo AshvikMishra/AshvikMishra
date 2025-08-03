@@ -42,6 +42,4 @@ I enjoy building tools, automating workflows, and applications.
   <img src="https://github-readme-stats.vercel.app/api?username=AshvikMishra&show_icons=true&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshvikMishra&layout=compact&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="Top Languages" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=AshvikMishra&label=Profile+Views&color=7B3F00&style=flat-square" alt="Profile Views" />
 </p>
