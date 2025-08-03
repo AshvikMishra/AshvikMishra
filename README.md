@@ -4,7 +4,7 @@ I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and
 I enjoy building tools, automating workflows, and applications.
 </p>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">Tech Stack</h2>
+### Tech Stack
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
 - Languages: C, C++, Python, JavaScript, Dart
@@ -15,7 +15,7 @@ I enjoy building tools, automating workflows, and applications.
 - Tools: Git, GitHub, VSCode
 </pre>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">Projects</h2>
+### Projects
 
 <ul style="font-family:'Courier New', monospace; color:#3E2723;">
   <li>🎵 <strong>Amazon to Spotify Playlist Converter</strong><br>
@@ -28,7 +28,7 @@ I enjoy building tools, automating workflows, and applications.
   Custom-built dark dashboard with tab navigation and chat interface with media/file sections.</li>
 </ul>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">Currently Exploring</h2>
+### Currently Exploring
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
 → Full-stack development with Flutter
@@ -36,7 +36,7 @@ I enjoy building tools, automating workflows, and applications.
 → ML fundamentals + minimal AI tooling
 </pre>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">GitHub Stats</h2>
+### Github Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=AshvikMishra&show_icons=true&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="GitHub Stats" />
