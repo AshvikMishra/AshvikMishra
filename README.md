@@ -4,7 +4,7 @@ I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and
 I enjoy building tools, automating workflows, and applications.
 </p>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">🛠Tech Stack</h2>
+<h2 style="font-family:'Courier New', monospace; color:#3E2723;">Tech Stack</h2>
 
 <pre style="font-family:'Courier New', monospace; color:#3E2723; background:#FFF8DC; padding:1em;">
 - Languages: C, C++, Python, JavaScript, Dart
@@ -36,7 +36,7 @@ I enjoy building tools, automating workflows, and applications.
 → ML fundamentals + minimal AI tooling
 </pre>
 
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">📊 GitHub Stats</h2>
+<h2 style="font-family:'Courier New', monospace; color:#3E2723;">GitHub Stats</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=AshvikMishra&show_icons=true&theme=retro&hide_border=true&title_color=7B3F00&text_color=3E2723&bg_color=FFF8DC" alt="GitHub Stats" />
