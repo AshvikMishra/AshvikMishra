@@ -1,5 +1,6 @@
 <p style="font-family:'Courier New', monospace; color:#7B3F00;">
-Hi! I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and Machine Learning.  
+Hi! 👋
+I'm Ashvik, a CS Engineering student specializing in Artificial Intelligence and Machine Learning.  
 I enjoy building tools, automating workflows, and applications.
 </p>
 
@@ -34,8 +35,6 @@ I enjoy building tools, automating workflows, and applications.
 → AI-assisted browser automation
 → ML fundamentals + minimal AI tooling
 </pre>
-
-<h2 style="font-family:'Courier New', monospace; color:#3E2723;">📊 GitHub Stats</h2>
 
 <h2 style="font-family:'Courier New', monospace; color:#3E2723;">📊 GitHub Stats</h2>
 
