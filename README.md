@@ -6,7 +6,7 @@ I enjoy building tools, automating workflows, and applications.
 ### Tech Stack
 
 ```
-→ Languages: C, C++, Python, JavaScript, Dart  
+→ Languages: C, C++, Python, Java, Dart  
 → Mobile Development: Flutter (with Firebase, Provider)  
 → Backend: PostgreSQL  
 → Automation: PyAutoGUI
