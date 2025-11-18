@@ -26,8 +26,8 @@ I enjoy building tools, automating workflows, and applications.
 → trackSwap 🎵
   Scrapes Amazon Music playlists and recreates them on Spotify using GUI automation and CSV workflows.
 
-→ WhoDatDev 🧠
-  A Akinator like guessing game using data gathered from a club.
+→ LeeterBoard 📊
+  A Flutter app for tracking LeetCode progress with real-time leaderboards and group collaboration.
 
 → DevEcho 📱
   A messaging application tailtored to developers with a retro twist.
